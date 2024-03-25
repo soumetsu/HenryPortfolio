@@ -1,0 +1,78 @@
+header {
+    font-family: "Lucida Bright";
+    text-align: center;
+    font-size: 42px;
+    background-color: #aeb1da;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+header nav {
+
+    font-family: "Bodoni MT";
+    text-align: left;
+    font-size: 20px;
+}
+header nav ul {
+    list-style-type: square;
+    color: white;
+}
+
+img {
+    width: 17%;
+    height: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.bodyBody{
+    display: flex;
+}
+
+.bodyBody .sidebarClass {
+    margin: 15px;
+    text-align: left;
+}
+.bodyBody .sidebarClass p {
+    text-align: center;
+}
+
+.bodyBody .sidebarClass ol{
+    text-align: left;
+}
+
+
+.bodyInfo p{
+    margin: 15px;
+    font-size: 20px;
+    font-family: "Book Antiqua";
+    color: black;
+}
+
+.bodyInfo a{
+    font-size:28px;
+    font-style: oblique;
+}
+.bodyInfo ol p{
+    margin-right: 200px;
+}
+
+table tr td img{
+    margin: 1px;
+    width: 100%;
+    height: 100%;
+}
+
+
+footer{
+    font-family: "Arial Rounded MT Bold";
+    font-size: 12px;
+    text-align: center;
+}
+
+footer .dividerBottom p{
+    font-style: oblique;
+    font-family: "Comic Sans MS";
+}
